@@ -1,17 +1,134 @@
-# flutter_application_1
+# 📱 BizBook – Business Management System
 
-A new Flutter project.
+## 👨‍🎓 Student Information
 
-## Getting Started
+* **Name:** mutayab 
+* **Roll No:** 2672
+* **Department:** BS Computer Science
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# 📖 About the Project
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+**BizBook** is a Flutter-based Business Management System developed for small businesses and shopkeepers. It helps users manage products, customers, suppliers, sales, purchases, and payments in one application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is developed as a semester project to learn Flutter and Dart through real-world application development.
+
+---
+
+# ✨ Features
+
+* 🔐 Login & Business Profile
+* 📊 Dashboard
+* 📦 Product Management
+* 👥 Customer Management
+* 🚚 Supplier Management
+* 🛒 Sales Invoice
+* 📥 Purchase Management
+* 💰 Payment Tracking
+* 📈 Reports
+* 📄 PDF Invoice Generation
+
+---
+
+# 🛠 Technologies Used
+
+* Flutter
+* Dart
+* Hive (Local Database)
+* Provider (State Management)
+* Git & GitHub
+
+---
+
+# 📂 Project Structure
+
+```text
+lib/
+│── app/
+│── models/
+│── providers/
+│── screens/
+│── services/
+│── widgets/
+│── main.dart
+```
+
+---
+
+# 🚀 How to Run the Project
+
+1. Clone the repository.
+
+```bash
+git clone <repository-link>
+```
+
+2. Open the project in VS Code.
+
+3. Install dependencies.
+
+```bash
+flutter pub get
+```
+
+4. Run the project.
+
+```bash
+flutter run
+```
+
+---
+
+# 🎯 Learning Objectives
+
+This project helps students learn:
+
+* Flutter Basics
+* Dart Programming
+* UI Design
+* Navigation
+* Forms & Validation
+* State Management
+* Local Database
+* CRUD Operations
+* GitHub Version Control
+
+---
+
+# 📸 Screens
+
+* Splash Screen
+* Login Screen
+* Dashboard
+* Products
+* Customers
+* Sales
+* Purchases
+* Reports
+* Settings
+
+---
+
+# 📌 Future Improvements
+
+* Firebase Authentication
+* Cloud Backup
+* Barcode Scanner
+* WhatsApp Invoice Sharing
+* Dark Mode
+* Multi-Business Support
+
+---
+
+# 👨‍💻 Developer
+
+****
+
+BS Computer Science Student
+
+---
+
+# ⭐ Thank You
+
+Thank you for visiting this project. If you like it, please give it a ⭐ on GitHub.
