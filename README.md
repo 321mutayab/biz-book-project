@@ -132,3 +132,10 @@ BS Computer Science Student
 # ⭐ Thank You
 
 Thank you for visiting this project. If you like it, please give it a ⭐ on GitHub.
+
+
+
+
+picture upload.
+https://github.com/321mutayab/biz-book-project/blob/fefe33c72ebcec4f45531b275f20697bfe010cc0/WhatsApp%20Image%202026-07-15%20at%204.47.19%20PM.jpeg
+
